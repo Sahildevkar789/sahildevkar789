@@ -1,18 +1,230 @@
-# 💫 About Me:
-<br>- Name: Sahil Santosh Devkar<br>- Role: 3rd Year B.Tech Computer Engineering Student<br>- Location: Mumbai, India<br>- Skills: MERN Stack, Node.js, Express.js, MongoDB, React.js, Python, APIs, Cloud Computing (beginner), Cybersecurity (learning)<br>- Certifications: Meta Back-End Developer Professional Certificate (Coursera)<br>
+<div align="center">
 
+# 👋 Hey, I'm Sahil Devkar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saahildevk4r/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-devkar-917906290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahildevkar789@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Cloud+Computing+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
 
-# 💻 Tech Stack:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahildevkar789&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahildevkar789&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildevkar789&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Sahil%20Devkar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahildevkar789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```yaml
+Name: Sahil Santosh Devkar
+
+Education:
+   B.Tech Computer Engineering
+   Third Year
+
+Location:
+   Mumbai, India
+
+Focus:
+   Full Stack Development
+   Cybersecurity
+   Cloud Computing
+
+Current Goal:
+   Crack Product Based Companies
+   Build Real World Projects
+
+Learning:
+   AWS
+   Docker
+   Kubernetes
+   DevSecOps
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sahil-devkar-917906290">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:sahildevkar789@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://instagram.com/saahildevk4r">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Arsenal
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,kotlin"/>
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,angular"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+### Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛡 CyberShield | AI Powered Cybersecurity Platform |
+| 📱 DeepFake QR Detector | Detect Fake QR Codes using AI |
+| ⚽ Sports Turf Booking | MERN Stack Booking Platform |
+| ✍ AI Signature Verification | Flask + OpenCV + Machine Learning |
+
+---
+
+# 🧠 Currently Learning
+
+```text
+███████████████░░░░░ AWS
+
+████████████████░░░ Docker
+
+█████████████░░░░░ Kubernetes
+
+████████████░░░░░ DevSecOps
+
+██████████████░░░ Cybersecurity
+```
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahildevkar789&theme=radical&no-frame=true&margin-w=15&row=2&column=4">
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahildevkar789&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahildevkar789&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sahildevkar789&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahildevkar789&theme=tokyo-night"/>
+
+---
+
+# 🐍 Snake Contribution
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sahildevkar789/sahildevkar789/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 💻 Coding Time
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sahildevkar789&theme=tokyonight"/>
+
+---
+
+# 💬 Quote
+
+> "Code. Learn. Build. Secure. Repeat."
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ 500+ LeetCode Problems
+- ✅ AWS Cloud Practitioner
+- ✅ Security+
+- ✅ Docker + Kubernetes
+- ✅ DevSecOps
+- ✅ Product Based Internship
+- ✅ Open Source Contributions
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sahildevkar789&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## Thanks for Visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+
+</div>
